@@ -1,7 +1,7 @@
 # Game 2048
 <i>Was created by <b>Dastan Kadyrov</b></i>
 <h6></h6>
-<h2>Instructions fot Game play</h2>
+<h2>Instructions for Game play</h2>
 <p><b>2048</b>, the game that I developed is a remake of the popular mobile game 2048.</p>
 <p>The game can be played in a 4x4 grid by moving and combining valued tiles in order to get a score of 2048.</p>
 <p>User will use the "WASD" keys to move the tiles on the board. When two tiles with the same number touch, if they are next to each other then they will merge into one with a value of the two tiles!</p>
